@@ -1,4 +1,4 @@
-# **Stephen Robinson Portfolio CV Webite**
+# **Stephen Robinson Portfolio CV Website**
 
 Presentation website of Stephen Robinson portfolio, career progression and his future journey. 
 On the completion of his Code Institute Full Stack Developer course where could this lead him. The possibilities would seem to be endless since 
@@ -10,9 +10,9 @@ Broadcast, post production world. Some serious thought to be had there for Steph
 Main purpose of this site is to present Stephens career progression, key skills, work experience, roles within the various companies Stephen has worked for
 and where Stephen could be heading to in the future. Most importantly to achieve employment within a potential company or contract for certain projects
 
-##**User Story**
+## **User Story**
 
-##**Type Of User**
+## **Type Of User**
 
 - Recruiting agencies
 - Possible startup companies 
@@ -21,7 +21,7 @@ and where Stephen could be heading to in the future. Most importantly to achieve
 - Job posting sites Indeed.co.uk, Technojobs.co.uk, Glassdoor.co.uk, Amazon.jobs etc etc...
 - Stephens internal friends and family network
 
-##**As A User I**
+## **As A User I**
 
 - to navigate the site with ease 
 - would like to see the companies Stephen has worked for in the past
@@ -30,29 +30,29 @@ and where Stephen could be heading to in the future. Most importantly to achieve
 - To be able to access Stephens CV
 - To be able to contact Stephen through contact details 
 
-##**Wireframes**
+## **Wireframes**
 
 
-##**Features**
+## **Features**
 
-##**Existing Features**
+## **Existing Features**
 
 This will be a one html page site with 5 sections and rolling fuctionality to the seperate sections 
 
-##**Future Features**
+## **Future Features**
 
-##**Technologies Used**
+## **Technologies Used**
 
-##**Testing**
+## **Testing**
 
-##**Deployment**
+## **Deployment**
 
-##**Credits**
+## **Credits**
 
 Content 
 Media used, picture was from Adobe Stock
 
-##**Acknowledgements**
+## **Acknowledgements**
 
 
 
