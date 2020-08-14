@@ -1,39 +1,61 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+#**Stephen Robinson Portfolio CV Webite**
 
-Welcome USER_NAME,
+Presentation website of Stephen Robinson portfolio, career progression and his future journey. 
+On the completion of his Code Institute Full Stack Developer course where could this lead him. The possibilities would seem to be endless since 
+this could lead Stephen further down the line to a multitude of various industries, but also could advance his already vast career within the TV, 
+Broadcast, post production world. Some serious thought to be had there for Stephen while he progresses through his Full Stack developers course!
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project.
+**UX**
 
-## Gitpod Reminders
+Main purpose of this site is to present Stephens career progression, key skills, work experience, roles within the various companies Stephen has worked for
+and where Stephen could be heading to in the future. Most importantly to achieve employment within a potential company or contract for certain projects
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+##**User Story**
 
-`python3 -m http.server`
+##**Type Of User**
 
-A blue button should appear to click: *Make Public*,
+- Recruiting agencies
+- Possible startup companies 
+- Companies that Stephen might have worked for in the past 
+- Stephens LinkedIn and other social networks
+- Job posting sites Indeed.co.uk, Technojobs.co.uk, Glassdoor.co.uk, Amazon.jobs etc etc...
+- Stephens internal friends and family network
 
-Another blue button should appear to click: *Open Browser*.
+##**As A User I**
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+- to navigate the site with ease 
+- would like to see the companies Stephen has worked for in the past
+- How long did Stephen work at these companies, this can show commitment 
+- to see Stephens key skills 
+- To be able to access Stephens CV
+- To be able to contact Stephen through contact details 
 
-A blue button should appear to click: *Make Public*,
+##**Wireframes**
 
-Another blue button should appear to click: *Open Browser*.
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the backend lessons.
+##**Features**
 
-## Updates Since The Instructional Video
+##**Existing Features**
 
-We continually tweak and adjust this template to help give you the best experience. Here are the updates since the original video was made:
+This will be a one html page site with 5 sections and rolling fuctionality to the seperate sections 
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+##**Future Features**
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+##**Technologies Used**
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+##**Testing**
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+##**Deployment**
 
---------
+##**Credits**
 
-Happy coding!
+Content 
+Media used, picture was from Adobe Stock
+
+##**Acknowledgements**
+
+
+
+
+
+
