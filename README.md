@@ -5,7 +5,7 @@ On the completion of his Code Institute Full Stack Developer course where could 
 this could lead Stephen further down the line to a multitude of various industries, but also could advance his already vast career within the TV, 
 Broadcast, post production world. Some serious thought to be had there for Stephen while he progresses through his Full Stack developers course!
 
-**UX**
+## **UX**
 
 Main purpose of this site is to present Stephens career progression, key skills, work experience, roles within the various companies Stephen has worked for
 and where Stephen could be heading to in the future. Most importantly to achieve employment within a potential company or contract for certain projects
