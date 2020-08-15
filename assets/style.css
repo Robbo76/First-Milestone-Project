@@ -51,8 +51,37 @@ border-bottom: 1px solid #777777;
     border-bottom: 1px solid #777777;
 }
 
-#tech1{
+#tech2{
     height: 600px;
     width: 100%;
-    background:assets/images/tech1-jpeg no-repeat center center;
+    background: url('images/tech2.jpg') no-repeat center center;
+
+    animation-name: tech-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+
+}
+
+#tech2-outer{
+    height: 600px;
+    width: 100%;
+    overflow:hidden;
+}
+
+@keyframes tech-zoom {
+    from{
+transform: scale(1)
+    }
+    to{
+transform: scale(1.1);
+    }
+}
+
+#center-about{
+    width: 70%;
+    margin:0 auto;
+}
+
+.center-about-heading{
+
 }
